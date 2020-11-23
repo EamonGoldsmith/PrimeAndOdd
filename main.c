@@ -1,5 +1,5 @@
 /*
- * @Sushant Modgil Write a C program to input n numbers in an array, 
+ * Write a C program to input n numbers in an array, 
  * calculate the sum of all prime numbers and sum of all even numbers
  * in the array and print the larger sum.
  */
